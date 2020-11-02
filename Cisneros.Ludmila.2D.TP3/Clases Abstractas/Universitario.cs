@@ -40,7 +40,7 @@ namespace Clases_Abstractas
         protected virtual string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat($"{base.ToString()}\nLEGAJO NÚMERO: {this.legajo}\n\n");
+            sb.AppendFormat($"{base.ToString()}LEGAJO NÚMERO: {this.legajo}\n\n");
             return sb.ToString();
         }
 
