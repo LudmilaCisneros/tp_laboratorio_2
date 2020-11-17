@@ -4,3 +4,9 @@ C:\Users\Lu\Desktop\TP1RECUPERATORIO\TP1\TP1\obj\Debug\Entidades.csprojAssemblyR
 C:\Users\Lu\Desktop\TP1RECUPERATORIO\TP1\TP1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Lu\Desktop\TP1RECUPERATORIO\TP1\TP1\obj\Debug\TP1.dll
 C:\Users\Lu\Desktop\TP1RECUPERATORIO\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\Lu\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP1\bin\Debug\TP1.dll
+C:\Users\Lu\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Lu\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP1\obj\Debug\TP1.dll
+C:\Users\Lu\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP1\obj\Debug\TP1.pdb

@@ -25,11 +25,16 @@ namespace MiCalculadora
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            Numero numero1 = new Numero(txtNumero1.Text);
-            Numero numero2 = new Numero(txtNumero2.Text);
-            string operador = cmbOperador.Text;
-            string resultadoStr = Calculadora.Operar(numero1, numero2, operador).ToString();
-            lblResultado.Text = resultadoStr;
+            double resultado = Operar(txtNumero1.Text.ToString(), txtNumero2.Text.ToString(), cmbOperador.SelectedItem.ToString());
+            lblResultado.Text = resultado.ToString();
+        }
+
+        private static double Operar(string numero1, string numero2, string operador)
+        {
+            Numero n1 = new Numero(double.Parse(numero1));
+            Numero n2 = new Numero(double.Parse(numero2));
+
+            return Calculadora.Operar(n1, n2, operador);
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -39,14 +44,16 @@ namespace MiCalculadora
 
         private void btnConvertirAbinario_Click(object sender, EventArgs e)
         {
+            Numero numero = new Numero();
             string numeroAux = lblResultado.Text;
-            lblResultado.Text = Numero.DecimalBinario(numeroAux);
+            lblResultado.Text = numero.DecimalBinario(numeroAux);
         }
 
         private void btnConvetirADecimal_Click(object sender, EventArgs e)
         {
+            Numero numero = new Numero();
             string numeroAux = lblResultado.Text;
-            lblResultado.Text = Numero.BinarioDecimal(numeroAux);
+            lblResultado.Text = numero.BinarioDecimal(numeroAux);
         }
 
         private void Limpiar()
@@ -56,6 +63,7 @@ namespace MiCalculadora
             txtNumero2.Text = "";
             cmbOperador.Text = "";
         }
+        
         private void FormCalculadora_Load(object sender, EventArgs e)
         {
             Limpiar();

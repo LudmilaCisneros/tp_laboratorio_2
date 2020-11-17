@@ -8,14 +8,27 @@ namespace Entidades
 {
     public class Numero
     {
+        #region Atributos
+
         private double numero;
+
+        #endregion
 
         /// <summary>
         /// Constructor por defecto.Setea en 0 el numero.
         /// </summary>
-        private Numero()
+        public Numero()
         {
             numero = 0;
+        }
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="numero"></param>
+        public Numero(double numero) : this()
+        {
+            this.numero = numero;
         }
 
         /// <summary>
@@ -30,8 +43,6 @@ namespace Entidades
                 this.numero = numero;
             }
         }
-
-
 
         /// <summary>
         /// Asignará un valor al atributo número.
@@ -81,27 +92,25 @@ namespace Entidades
         /// </summary>
         /// <param name="numero"></param>
         /// <returns></returns>
-        public static bool EsBinario(string numero)
+        private bool EsBinario(string numero)
         {
-            bool esBinario = false;
 
             for(int i=0;i<numero.Length;i++)
             {
                 if(numero[i] != '0' && numero[i] != '1')
                 {
-                    return esBinario;
+                    return false;
                 }
             }
-            esBinario = true;
 
-            return esBinario;
+            return true;
         }
         /// <summary>
         /// Convertirá un numero binario al decimal
         /// </summary>
         /// <param name="numero"></param>
         /// <returns>numero str</returns>
-        public static string BinarioDecimal(string numeroStr)
+        public string BinarioDecimal(string numeroStr)
         {
             char[] array = numeroStr.ToCharArray();
 
@@ -109,24 +118,29 @@ namespace Entidades
 
             int suma = 0;
 
-            for (int i = 0; i < array.Length; i++)
+            if (EsBinario(numeroStr))
             {
-                if (array[i] == '1')
+                for (int i = 0; i < array.Length; i++)
                 {
-                    if (i == 0)
+                    if (array[i] == '1')
                     {
-                        suma += 1;
+                        if (i == 0)
+                        {
+                            suma += 1;
+                        }
+                        else
+                        {
+                            suma += (int)Math.Pow(2, i);
+                        }
                     }
-                    else
+
+                    if (array[i] != '0' && array[i] != '1')
                     {
-                        suma += (int)Math.Pow(2, i);
+                        return "Valor invalido";
                     }
                 }
 
-                if (array[i] != '0' && array[i] != '1')
-                {
-                    return "Valor invalido";
-                }
+                return suma.ToString();
             }
             return suma.ToString();
         }
@@ -136,7 +150,7 @@ namespace Entidades
         /// </summary>
         /// <param name="numero"></param>
         /// <returns>binario str</returns>
-        public static string DecimalBinario(string numStr)
+        public string DecimalBinario(string numStr)
         {
             double numero;
             bool esNumero;

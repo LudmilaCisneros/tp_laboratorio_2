@@ -91,6 +91,7 @@
             // 
             // txtNumero1
             // 
+            this.txtNumero1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNumero1.Location = new System.Drawing.Point(7, 64);
             this.txtNumero1.Multiline = true;
             this.txtNumero1.Name = "txtNumero1";
@@ -99,6 +100,7 @@
             // 
             // txtNumero2
             // 
+            this.txtNumero2.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNumero2.Location = new System.Drawing.Point(329, 64);
             this.txtNumero2.Multiline = true;
             this.txtNumero2.Name = "txtNumero2";
@@ -121,11 +123,12 @@
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(399, 25);
+            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResultado.Location = new System.Drawing.Point(420, 9);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(29, 13);
+            this.lblResultado.Size = new System.Drawing.Size(49, 46);
             this.lblResultado.TabIndex = 8;
-            this.lblResultado.Text = "label";
+            this.lblResultado.Text = "R";
             // 
             // FormCalculadora
             // 
