@@ -8,6 +8,8 @@ namespace Entidades
 {
     public static class ShowroomExt
     {
+        #region Métodos
+
         /// <summary>
         /// Aumenta 1 el stock del local
         /// </summary>
@@ -29,5 +31,6 @@ namespace Entidades
             stock = Showroom.listaStockProductos[i].Stock;
             Showroom.listaStockProductos[i].Stock = stock-1;
         }
+        #endregion
     }
 }

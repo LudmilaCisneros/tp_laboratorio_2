@@ -35,8 +35,10 @@ namespace Entidades
 
         #endregion
 
+        #region Propiedades
+
         /// <summary>
-        /// Propiedad Activo: si se le pasa true activa el hilo y lo instancia, false para abortarlo
+        /// Propiedad Vivo: si se le pasa true activa el hilo y lo instancia, false para abortarlo
         /// </summary>
         public bool Vivo
         {
@@ -85,6 +87,9 @@ namespace Entidades
             get { return this.intervaloMax; }
             set { this.intervaloMax = value; }
         }
+        #endregion
+
+        #region Métodos
 
         /// <summary>
         /// Metodo que ejecuta el evento EventoTiempo,dentro del evento estan los metodos "suscriptos"
@@ -102,6 +107,7 @@ namespace Entidades
 
             }
         }
+        #endregion
 
     }
 }

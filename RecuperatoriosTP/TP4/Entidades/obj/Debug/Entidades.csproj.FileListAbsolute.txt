@@ -26,3 +26,14 @@ C:\Users\Lu\Desktop\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.c
 C:\Users\Lu\Desktop\TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
 C:\Users\Lu\Desktop\TP4\Entidades\obj\Debug\Entidades.dll
 C:\Users\Lu\Desktop\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Archivos.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.pdb

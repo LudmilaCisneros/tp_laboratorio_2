@@ -33,15 +33,25 @@ namespace Formularios
             this.dtgvStock = new System.Windows.Forms.DataGridView();
             this.lblStock = new System.Windows.Forms.Label();
             this.btnAtras = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvStock)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // dtgvStock
             // 
+            this.dtgvStock.AllowUserToAddRows = false;
+            this.dtgvStock.AllowUserToDeleteRows = false;
+            this.dtgvStock.AllowUserToResizeColumns = false;
+            this.dtgvStock.AllowUserToResizeRows = false;
             this.dtgvStock.BackgroundColor = System.Drawing.Color.Silver;
-            this.dtgvStock.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtgvStock.Location = new System.Drawing.Point(187, 71);
+            this.dtgvStock.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.dtgvStock.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            this.dtgvStock.Location = new System.Drawing.Point(185, 55);
             this.dtgvStock.Name = "dtgvStock";
+            this.dtgvStock.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dtgvStock.Size = new System.Drawing.Size(416, 299);
             this.dtgvStock.TabIndex = 0;
             // 
@@ -67,6 +77,23 @@ namespace Formularios
             this.btnAtras.UseVisualStyleBackColor = true;
             this.btnAtras.Click += new System.EventHandler(this.btnAtras_Click);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(213, 105);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(384, 96);
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackgroundImage = global::Formularios.Properties.Resources.decorado2;
+            this.pictureBox2.Location = new System.Drawing.Point(0, 1);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(802, 179);
+            this.pictureBox2.TabIndex = 4;
+            this.pictureBox2.TabStop = false;
+            // 
             // FormVerProductos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -77,6 +104,8 @@ namespace Formularios
             this.Controls.Add(this.btnAtras);
             this.Controls.Add(this.lblStock);
             this.Controls.Add(this.dtgvStock);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.pictureBox2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
@@ -85,6 +114,8 @@ namespace Formularios
             this.Text = "Stock";
             this.Load += new System.EventHandler(this.FormVerProductos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgvStock)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -95,5 +126,7 @@ namespace Formularios
         private System.Windows.Forms.DataGridView dtgvStock;
         private System.Windows.Forms.Label lblStock;
         private System.Windows.Forms.Button btnAtras;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }

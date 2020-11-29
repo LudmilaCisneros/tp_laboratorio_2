@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Media;
 using System.Windows.Forms;
 using Entidades;
 
@@ -13,10 +14,12 @@ namespace Formularios
 {
     public partial class FormMenu : Form
     {
+        SoundPlayer player;
         public FormMenu()
         {
             InitializeComponent();
             Showroom.ObtenerVentasXml();
+            player = new SoundPlayer("./tick.wav");
         }
 
         private void btnNuevaCompra_Click(object sender, EventArgs e)
@@ -44,6 +47,21 @@ namespace Formularios
             FormLocalTiempoReal formLocalTiempoReal = new FormLocalTiempoReal();
             formLocalTiempoReal.Show();
             this.Hide();
+        }
+
+        private void btnVerProductos_MouseMove(object sender, MouseEventArgs e)
+        {
+            player.Play();
+        }
+
+        private void btnLocalTiempoReal_MouseMove(object sender, MouseEventArgs e)
+        {
+            player.Play();
+        }
+
+        private void btnNuevaCompra_MouseMove(object sender, MouseEventArgs e)
+        {
+            player.Play();
         }
     }
 }

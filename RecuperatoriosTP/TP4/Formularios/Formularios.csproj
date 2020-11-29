@@ -129,5 +129,17 @@
   <ItemGroup>
     <None Include="Showroom.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="decorador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="decorado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="decoradoGalaxia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fondoMakeup.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

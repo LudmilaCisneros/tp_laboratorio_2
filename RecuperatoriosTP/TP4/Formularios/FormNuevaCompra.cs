@@ -167,6 +167,7 @@ namespace Formularios
         /// <param name="e"></param>
         private void btnRealizarPedido_Click(object sender, EventArgs e)
         {
+            miCliente.CalcularTotalCarrito();
             FormDatosCompra formDatosCompra = new FormDatosCompra(miCliente);
             formDatosCompra.Show();
             this.Close();

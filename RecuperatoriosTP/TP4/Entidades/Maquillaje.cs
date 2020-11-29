@@ -16,7 +16,6 @@ namespace Entidades
 
         #endregion
 
-
         #region Propiedades
         public string SubTipo { get { return this.subTipo; } set { this.subTipo = value; } }
 

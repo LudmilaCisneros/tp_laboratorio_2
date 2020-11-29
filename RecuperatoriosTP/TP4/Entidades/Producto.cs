@@ -131,22 +131,7 @@ namespace Entidades
             }
             return false;
         }
-        /// <summary>
-        /// Genera toda la info de un producto hasta el momento
-        /// </summary>
-        /// <returns>string con la informacion</returns>
-        public virtual string GenerarInfo()
-        {
-            StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"CÓDIGO: {this.Codigo}");
-            sb.AppendLine($"NOMBRE: {this.Nombre}");
-            sb.AppendLine($"COLOR: {this.Color}");
-            sb.AppendLine($"PRECIO: {this.Precio}");
-
-
-            return sb.ToString();
-        }
         #endregion
     }
 }

@@ -51,6 +51,7 @@ namespace Formularios
             this.btnNuevaCompra.Text = "Nueva Compra";
             this.btnNuevaCompra.UseVisualStyleBackColor = true;
             this.btnNuevaCompra.Click += new System.EventHandler(this.btnNuevaCompra_Click);
+            this.btnNuevaCompra.MouseMove += new System.Windows.Forms.MouseEventHandler(this.btnNuevaCompra_MouseMove);
             // 
             // btnLocalTiempoReal
             // 
@@ -65,6 +66,7 @@ namespace Formularios
             this.btnLocalTiempoReal.Text = "Local en tiempo real";
             this.btnLocalTiempoReal.UseVisualStyleBackColor = true;
             this.btnLocalTiempoReal.Click += new System.EventHandler(this.btnLocalTiempoReal_Click);
+            this.btnLocalTiempoReal.MouseMove += new System.Windows.Forms.MouseEventHandler(this.btnLocalTiempoReal_MouseMove);
             // 
             // btnVerProductos
             // 
@@ -79,6 +81,7 @@ namespace Formularios
             this.btnVerProductos.Text = "Ver Productos";
             this.btnVerProductos.UseVisualStyleBackColor = true;
             this.btnVerProductos.Click += new System.EventHandler(this.btnVerProductos_Click);
+            this.btnVerProductos.MouseMove += new System.Windows.Forms.MouseEventHandler(this.btnVerProductos_MouseMove);
             // 
             // pictureBox1
             // 

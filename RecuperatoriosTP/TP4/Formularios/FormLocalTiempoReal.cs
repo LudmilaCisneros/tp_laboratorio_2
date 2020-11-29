@@ -110,7 +110,7 @@ namespace Formularios
             }
             else
             {
-                MessageBox.Show("Ya no quedan más clientes.","Aviso");
+                MessageBox.Show("Ya no quedan más clientes en la fila.","Aviso");
                 hiloPedidosRealizados.Vivo = false;
             }
 

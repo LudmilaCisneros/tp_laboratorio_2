@@ -41,7 +41,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Lanza una query a la base de datos, y guarda la tabla de stock en la lista de stock
+        /// Lanza una query (SELECT) a la base de datos, y guarda la tabla de stock en la lista de stock
         /// </summary>
         /// <returns></returns>
         public static List<Producto> ObtenerStockDeBD()
