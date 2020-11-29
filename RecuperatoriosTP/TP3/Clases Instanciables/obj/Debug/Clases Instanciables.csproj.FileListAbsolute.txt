@@ -1,0 +1,39 @@
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

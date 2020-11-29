@@ -1,0 +1,27 @@
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Cisneros.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP1RECUPERATORIO\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
