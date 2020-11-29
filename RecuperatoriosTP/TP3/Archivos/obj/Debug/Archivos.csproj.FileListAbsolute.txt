@@ -25,3 +25,12 @@ C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Archivos\obj\Debug\Archivos.cspr
 C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Archivos\obj\Debug\Archivos.dll
 C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\Archivos.pdb

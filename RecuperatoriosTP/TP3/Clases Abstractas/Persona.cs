@@ -86,7 +86,7 @@ namespace Clases_Abstractas
         }
         public Persona(string nombre, string apellido, int dni, ENacionalidad nacionalidad):this(nombre, apellido,nacionalidad)
         {
-            this.dni = dni;
+            this.Dni = dni;
         }
         public Persona(string nombre, string apellido, string dni, ENacionalidad nacionalidad) : this(nombre, apellido, nacionalidad)
         {

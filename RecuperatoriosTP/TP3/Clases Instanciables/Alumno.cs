@@ -35,7 +35,7 @@ namespace Clases_Instanciables
 
         protected override string ParticiparEnClase()
         {
-            string txt = "INSCRIPTO EN: " + this.claseQueToma;
+            string txt = "INSCRIPTO EN: " + this.claseQueToma.ToString();
             return txt;
         }
         /// <summary>

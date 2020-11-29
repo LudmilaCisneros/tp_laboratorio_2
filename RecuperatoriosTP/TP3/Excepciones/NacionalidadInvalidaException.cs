@@ -9,14 +9,11 @@ namespace Excepciones
     public class NacionalidadInvalidaException : Exception
     {
         #region Constructores
-        public NacionalidadInvalidaException() : this("La nacionalidad no es válida para el DNI")
+        public NacionalidadInvalidaException() : base("La nacionalidad no es válida")
         {
 
         }
-        public NacionalidadInvalidaException(string message) : base(message)
-        {
 
-        }
         #endregion
     }
 }

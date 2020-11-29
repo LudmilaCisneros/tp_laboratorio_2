@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Archivos;
+using Excepciones;
 
 namespace Clases_Instanciables
 {
@@ -19,7 +20,7 @@ namespace Clases_Instanciables
 
         #region Propiedades
 
-        public List<Alumno> Alumnos 
+        public List<Alumno> Alumnos
         {
             get
             {
@@ -67,9 +68,9 @@ namespace Clases_Instanciables
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine("CLASE DE: " + this.clase.ToString() );
-            sb.AppendLine(this.instructor.ToString());
-
+            sb.AppendLine("CLASE DE: " + this.clase.ToString());
+            sb.AppendLine("Instructor: \n" + this.instructor.ToString());
+            sb.AppendLine("Alumnos: ");
             foreach (Alumno item in this.alumnos)
             {
                 sb.AppendLine(item.ToString());
@@ -94,14 +95,16 @@ namespace Clases_Instanciables
             return false;
         }
         /// <summary>
-        /// 
+        /// Obtiene el archivo de txt con los datos de la jornada
         /// </summary>
         /// <returns></returns>
-        public string Leer()
+        public static string Leer()
         {
             Texto archivoTxt = new Texto();
+            string jornadaDatos;
             string path = String.Concat(AppDomain.CurrentDomain.BaseDirectory, "Jornada");
-            archivoTxt.Leer(path, out string jornadaDatos);
+
+            archivoTxt.Leer(path, out jornadaDatos);
 
             return jornadaDatos;
         }
@@ -118,7 +121,14 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static bool operator ==(Jornada j, Alumno a)
         {
-            return j.alumnos.Contains(a);
+            if (j.alumnos.Contains(a))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         /// <summary>
@@ -144,7 +154,6 @@ namespace Clases_Instanciables
             {
                 j.alumnos.Add(a);
             }
-
             return j;
         }
         #endregion
@@ -154,7 +163,7 @@ namespace Clases_Instanciables
         {
             this.alumnos = new List<Alumno>();
         }
-        public Jornada(Universidad.EClases clase, Profesor instructor):this()
+        public Jornada(Universidad.EClases clase, Profesor instructor) : this()
         {
             this.instructor = instructor;
             this.clase = clase;

@@ -10,3 +10,9 @@ C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Excepciones\obj\Debug\Excepcione
 C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\Lu\Desktop\TP3\Cisneros.Ludmila.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Lu\Desktop\Nueva carpeta\tp_laboratorio_2\RecuperatoriosTP\TP3\Excepciones\obj\Debug\Excepciones.pdb

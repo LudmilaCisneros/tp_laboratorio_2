@@ -90,9 +90,10 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static Universidad Leer()
         {
+            Universidad uni = new Universidad();
             Xml<Universidad> archivoXmlUni = new Xml<Universidad>();
             string path = AppDomain.CurrentDomain.BaseDirectory + "Universidad.xml";
-            archivoXmlUni.Leer(path, out Universidad uni);
+            archivoXmlUni.Leer(path, out uni);
 
             return uni;
         }
@@ -155,7 +156,6 @@ namespace Clases_Instanciables
                     break;
                 }
             }
-
             return aux;
         }
         public static Universidad operator +(Universidad g, EClases clase)
@@ -189,7 +189,7 @@ namespace Clases_Instanciables
             }
             else
             {
-                throw new AlumnoRepetidoException();
+                throw new AlumnoRepetidoException("El alumno ya fue agregado");
             }
 
             return u;
